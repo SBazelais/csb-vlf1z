@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sbazelais.github.io/csb-vlf1z/static/css/main.397fe481.chunk.css",
+    "main.js": "https://sbazelais.github.io/csb-vlf1z/static/js/main.ce4e3f84.chunk.js",
+    "main.js.map": "https://sbazelais.github.io/csb-vlf1z/static/js/main.ce4e3f84.chunk.js.map",
+    "runtime-main.js": "https://sbazelais.github.io/csb-vlf1z/static/js/runtime-main.206f73b9.js",
+    "runtime-main.js.map": "https://sbazelais.github.io/csb-vlf1z/static/js/runtime-main.206f73b9.js.map",
+    "static/js/2.2665f1a7.chunk.js": "https://sbazelais.github.io/csb-vlf1z/static/js/2.2665f1a7.chunk.js",
+    "static/js/2.2665f1a7.chunk.js.map": "https://sbazelais.github.io/csb-vlf1z/static/js/2.2665f1a7.chunk.js.map",
+    "index.html": "https://sbazelais.github.io/csb-vlf1z/index.html",
+    "static/css/main.397fe481.chunk.css.map": "https://sbazelais.github.io/csb-vlf1z/static/css/main.397fe481.chunk.css.map",
+    "static/js/2.2665f1a7.chunk.js.LICENSE.txt": "https://sbazelais.github.io/csb-vlf1z/static/js/2.2665f1a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.206f73b9.js",
+    "static/js/2.2665f1a7.chunk.js",
+    "static/css/main.397fe481.chunk.css",
+    "static/js/main.ce4e3f84.chunk.js"
+  ]
+}
